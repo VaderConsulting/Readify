@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+Test/App/App.config
+Test/App/Properties/Settings.settings
