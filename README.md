@@ -13,7 +13,7 @@ C# practice work for a Readify competency screen. ConsoleTest classifies triangl
 |---------|----------|------|---------|
 | `Test/ConsoleTest` | C# | console exe (.NET 3.5) | Triangle type, nth-from-tail, reverse-words puzzles |
 | `Test/App` | C# | WinForms exe (.NET 4.5) | Empty form bound to an Access Issues dataset |
-| Word docs (folder root) | — | documents | Readify interview / skills materials |
+| Word docs (folder root) | - | documents | Readify interview / skills materials |
 
 ## How to open
 
