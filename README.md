@@ -19,6 +19,10 @@ C# practice work for a Readify competency screen. ConsoleTest classifies triangl
 
 Open `Test/Test.sln` in Visual Studio 2012 or later. Run ConsoleTest for the puzzles. Copy `App.config.example` and `Settings.settings.example` to drop the `.example` suffix and point the Access path at a local `Issues.accdb` before building App.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5, .NET Framework 4.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `Readify`). Assembly copyright 2013. Interview documents originated with Readify; they are kept here as Dave's working copy. Connection strings that pointed at a personal Documents path were replaced with `*.example` files.
