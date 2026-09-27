@@ -25,6 +25,8 @@ Open `Test/Test.sln` in Visual Studio 2012 or later. Run ConsoleTest for the puz
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `Readify`). Assembly copyright 2013. Interview documents originated with Readify; they are kept here as Dave's working copy. Connection strings that pointed at a personal Documents path were replaced with `*.example` files.
 
 ## License
